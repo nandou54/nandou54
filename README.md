@@ -7,5 +7,5 @@
 
 <h2>More about me</h2>
 
-- [Portfolio](https://pabloc54.github.io/portfolio)
-- [Linkedin](https://www.linkedin.com/in/pabloc54/)
+- [Portfolio](https://nanndo54.dev)
+- [Linkedin](https://www.linkedin.com/in/nanndo54/)
