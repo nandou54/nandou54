@@ -1,8 +1,8 @@
-# _NANDOU54_ &nbsp; [![](https://visitcount.itsvg.in/api?id=nandou54.dev&icon=4&color=1)](https://visitcount.itsvg.in)
+# _NANDOU54_
 
-## 💫 Check out my portfolio - [nandou54.github.io](https://nandou54.github.io)
+## 💫 Check out my portfolio - [nandous.com](https://nandous.com)
 
-[![https://nandou54.github.io](images/lighthouse.gif)](https://nandou54.github.io)
+[![https://nandous.com](images/lighthouse.gif)](https://nandous.com)
 
 ---
 
