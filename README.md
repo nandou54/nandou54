@@ -1,8 +1,8 @@
-# _NANNDO54_ &nbsp; [![](https://visitcount.itsvg.in/api?id=nanndo54.dev&icon=4&color=1)](https://visitcount.itsvg.in)
+# _NANDOU54_ &nbsp; [![](https://visitcount.itsvg.in/api?id=nandou54.dev&icon=4&color=1)](https://visitcount.itsvg.in)
 
-## 💫 Check out my portfolio - [nanndo54.dev](https://nanndo54.dev)
+## 💫 Check out my portfolio - [nandou54.github.io](https://nandou54.github.io)
 
-[![https://nanndo54.dev](images/lighthouse.gif)](https://nanndo54.dev)
+[![https://nandou54.github.io](images/lighthouse.gif)](https://nandou54.github.io)
 
 ---
 
@@ -30,8 +30,6 @@
 
 ---
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=nanndo54&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nandou54&theme=tokyonight&hide_border=false)<br/>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-<style>h2,h3,h4 { border-bottom: 0; } </style>
